@@ -117,3 +117,11 @@ pre[class*="language-"] {
 	cursor: help;
 }
 
+.bespoke-slide {
+	background:no-repeat scroll 0% 0% transparent;
+	}
+.heder {
+	font-family:Droid;
+	font-size:80px;
+	font:bold;
+	}
